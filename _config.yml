@@ -1,3 +1,29 @@
-theme: jekyll-theme-minimal
+
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+
 title: storm in a teacup
-description: thoughts, one sip at a time
+tagline: thoughts, one sip at a time
+description: 
+
+url: http://stormtoast.github.io
+baseurl: /
+
+author:
+    name: 'stormtoast'
+
+paginate:   5
+
+# Custom vars
+
+version:          0.0.1
+
+github:
+  repo:  https://github.com/stormtoast
