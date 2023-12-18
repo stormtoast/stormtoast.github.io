@@ -1,19 +1,13 @@
-remote_theme: poole/hyde
+remote_theme: zivong/jekyll-theme-hydure
 
-# Permalinks
-permalink:        pretty
-relative_permalinks: true
 
-# Setup
+plugins:
+  - jekyll-remote-theme
 
-title: StormInAeTacup
+title: 'storm in a teacup'
 tagline: 'thoughts, one sip at a time'
-description: 'a description here'
 
-url: http://stormtoast.github.io
-baseurl: /
-
-author:
-    name: 'stormtoast'
-
-paginate:   5
+author.name : 'stormtoast'
+author.url : 'http://stormtoast.gihub.io'
+tags_path : '/tags' 
+categories_path: '/categories' 
