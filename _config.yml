@@ -9,9 +9,9 @@ relative_permalinks: true
 
 # Setup
 
-title: storm in a teacup
-tagline: thoughts, one sip at a time
-description: 
+title: StormInAeTacup
+tagline: 'thoughts, one sip at a time'
+description: 'a description here'
 
 url: http://stormtoast.github.io
 baseurl: /
@@ -22,7 +22,6 @@ author:
 paginate:   5
 
 # Custom vars
-
 version:          0.0.1
 
 github:
