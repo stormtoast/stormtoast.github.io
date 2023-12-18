@@ -1,7 +1,4 @@
-
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+remote_theme: poole/hyde
 
 # Permalinks
 permalink:        pretty
@@ -20,9 +17,3 @@ author:
     name: 'stormtoast'
 
 paginate:   5
-
-# Custom vars
-version:          0.0.1
-
-github:
-  repo:  https://github.com/stormtoast
