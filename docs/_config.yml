@@ -3,8 +3,13 @@
 #remote_theme: zivong/jekyll-theme-hydure
 
 
-#plugins:
-#  - jekyll-remote-theme
+plugins:
+  - jekyll-paginate
+  #- jekyll-sitemap
+  #- jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-seo-tag
 
 title: 'storm in a teacup'
 tagline: 'thoughts, one sip at a time'
@@ -14,3 +19,4 @@ author.url : 'http://stormtoast.gihub.io'
 tags_path : '/tags' 
 categories_path: '/categories' 
 cover : '/assets/img/cover.jpg'
+
