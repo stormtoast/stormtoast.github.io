@@ -8,7 +8,7 @@ $xl-screen: 80rem;
   --body-line-height: 1.5;
   --body-color:       var(--oc-gray-9);
   --body-color-light: var(--oc-gray-6);
-  --body-bg:          rgb(10, 95, 156);
+  --body-bg:          var(--oc-white);
   --link-color:       var(--oc-blue-9);
   --heading-color:    var(--oc-black);
   
@@ -32,7 +32,7 @@ $xl-screen: 80rem;
   :root {
     --body-color:       var(--oc-gray-4);
     --body-color-light: var(--oc-gray-6);
-    --body-bg:          rgb(10, 95, 156);
+    --body-bg:          var(--oc-gray-9);
     --link-color:       var(--oc-blue-4);
     --heading-color:    var(--oc-white);
 

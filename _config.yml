@@ -1,10 +1,10 @@
 # https://github.com/zivong/jekyll-theme-hydure
 
-remote_theme: zivong/jekyll-theme-hydure
+#remote_theme: zivong/jekyll-theme-hydure
 
 
-plugins:
-  - jekyll-remote-theme
+#plugins:
+#  - jekyll-remote-theme
 
 title: 'storm in a teacup'
 tagline: 'thoughts, one sip at a time'
