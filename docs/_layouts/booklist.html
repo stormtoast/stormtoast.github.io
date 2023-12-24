@@ -1,9 +1,8 @@
-
 ---
 layout: default
 ---
-
-<div class="container">
+<article class="booklist">
+ 
   <div class="last-update">Last updated {{ site.data.reading.lastupdate }}</div>
   {% for entry in site.data.reading.list %}
   <div class="year-container">
@@ -26,4 +25,5 @@ layout: default
     </div>
   </div>
   {% endfor %}
-</div>
+
+</article>
