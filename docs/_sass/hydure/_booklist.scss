@@ -1,12 +1,12 @@
 last-update {
   font-size: 16px;
-  color: #777;
+  color: var(--oc-gray-6);
   margin: 2rem 0;
 }
 
 .number {
   font-size: 16px;
-  color: #777;
+  color: var(--oc-gray-6);
 }
 
 .year-container {
@@ -26,15 +26,15 @@ last-update {
     }
     .author {
       font-size: 16px;
-      color: #555;
+      color:var(--oc-gray-6);
     }
     .star {
       margin-left: 3px;
-      color: #F76B48;
+      color: #c3b645;
       font-size: 16px;
     }
     a {
-      color: #383838;
+      color: var(--oc-blue-4);
     }
   }
   

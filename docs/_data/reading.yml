@@ -2,19 +2,112 @@ lastupdate: December 24, 2023
 list:
   - year: "2023"
     books:
-      - title: 坏道 [Huai Dao]
+      - title: 坏道 Huai Dao
         author: priest
-        link: https://www.novelupdates.com/series/the-way-of-the-evil/
-      - title : 不死者 [Undead]
-        author: 淮上 [Huai Shang]
-        link: https://www.novelupdates.com/series/undead/
-      - title: 吞海 [Swallowing the Seas]
-        author: 淮上 [Huai Shang]
+      - title : 不死者 Undead
+        author: 淮上 Huai Shang
+      - title: 顶端优势 Top Edge
+        author: 空菊 [Empty Chrisantemum]
       - title: 破云 [Breaking through the Clouds]
+        author: 淮上 [Huai Shang]
+      - title: 置换凶途 [Replacing the evil way]
+        author: 猫茶海狸 [Cat Tea Beaver]
+      - title: 吞海 [Swallowing the Seas]
         author: 淮上 [Huai Shang]
       - title: 鎮魂 [Guardian] Vol. 1
         author: priest
       - title: Omniscent Reader's Viewpoint
         author: 싱숑 [Singshong]
+        star: yes
       - title: 膜 [Membrane]
         author: Chi Ta-Wei 
+      - title: Rileggersi autistica a 51 anni
+        author: Simona Cicero
+      - title: Sea of Tranquillity 
+        author: Emily St. John Mandel
+      - title: Free range VHDL 
+        author: Bryan Mealy 
+      - title: Witch Hat Atelier
+        author: Kamome Shirahama
+      - title: Titan
+        author: Mado Nozaki  
+
+  - year: "2022"
+    books:
+      - title: 地球上線 The Earth Is Online
+        author: Mo Chen Huan 莫晨歡
+      - title: 禁区 Restricted Area
+        author: 空菊 [Empty Chrisantemum]
+      - title: 一级律师 First-Class Lawyer
+        author: 木苏里 Mu Su Li
+      - title: Seizing Dreams [夺梦]
+        author: 非天夜翔 Fei Tian Ye Xiang
+      - title: No Money to divorce
+        author: Shou Chu
+      - title: Lettere a me stessa
+        author: Kabi Nagata
+      - title: "Little Mushroom: Revelations"
+        author: Shisi
+        star: yes
+      - title: "Little Mushroom: Judgment Day"
+        author: Shisi 
+        star: yes
+      - title: 伪装学渣 Fake Slackers
+        author: 木瓜黄
+      - title: A Psalm for the Wild-Built
+        author: Becky Chambers
+      - title: The Scum Villain's Self-Saving System vol. 1
+        author: 墨香铜臭 Mò Xiāng Tóng Xiù
+      - title: In the Dark vol. 2
+        author: Jin Shisi Chai  
+
+  - year: "2021"
+    books: 
+      - title: In the Dark vol. 1
+        author: Jin Shisi Chai  
+      - title: 死亡万花筒 Kaleidoscope of Death
+        author: 西子绪 Xi Zi Xu
+      - title: Piranesi
+        author: Susanna Clarke
+      - title: 薄雾 Mist
+        author: 微风几许 Wei Feng Ji Xu
+        star: yes
+      - title: Global University Entrance Examination 全球高考
+        author: 木苏里 Mu Su Li 
+      - title: 薬屋のひとりごと [Kusuriya no Hitorigoto] vol. 1
+        author: 日向夏 Natsu Hyuuga
+      - title: 残次品 The Defectives
+        author: priest
+        star: yes
+      - title: 天涯客 Faraway Wanderers
+        author: priest 
+      - title : 天官赐福 Heaven Official's Blessing
+        author: 墨香铜臭 Mò Xiāng Tóng Xiù
+      - title: 黄金台 Golden Terrace
+        author: 苍梧宾白 Cang Wu Bin Bai
+      - title: 七爷 Lord Seventh
+        author: priest 
+      
+  - year: "2020"
+    books:
+      - title: 默读 Silent Reading
+        author: priest
+        star: yes
+      - title: 杀破狼 [Sha Po Lang]
+        author: priest
+      - title: 镇魂 [Guardian]
+        author: priest
+      - title: The expert system's brother
+        author: Adrian Tchaykovski
+      - title: Accabadora
+        author: Michela Murgia
+      - title: We should all be feminists
+        author: Chimamanda Ngozi Adichie
+      - title: Atlas alone
+        author: Emma Newmann
+      - title: Last night in Montreal
+        author: Emily St. John Mandel
+      - title: 魔道祖师 [Mó Dào Zǔ Shī]
+        author: 墨香铜臭 Mò Xiāng Tóng Xiù
+    
+
