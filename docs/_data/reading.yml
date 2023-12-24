@@ -1,0 +1,14 @@
+lastupdate: December 24, 2023
+list:
+  - year: "2023"
+    books:
+      - title: The Summer Book
+        author: Tove Jansson
+        link: https://amzn.to/2ZMtUuC
+        star: yes
+
+  - year: "2018"
+    books:
+      - title: "The World is a Narrow Bridge"
+        author: Aaron Thier
+        link: https://amzn.to/2PK3OZc
