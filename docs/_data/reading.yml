@@ -1,4 +1,4 @@
-lastupdate: December 24, 2023
+lastupdate: December 28, 2023
 list:
   # - year: "2024"
   #   books:
@@ -6,45 +6,47 @@ list:
   #       author:
   - year: "2023"
     books:
+      - title: "Kugan: city of everyone vol. 1"
+        author: 강소영 Kang So Young
       - title: 坏道 Huai Dao
         author: priest
       - title : 不死者 Undead
         author: 淮上 Huai Shang
       - title: 顶端优势 Top Edge
-        author: 空菊 [Empty Chrisantemum]
-      - title: 破云 [Breaking through the Clouds]
-        author: 淮上 [Huai Shang]
-      - title: 置换凶途 [Replacing the evil way]
-        author: 猫茶海狸 [Cat Tea Beaver]
-      - title: 吞海 [Swallowing the Seas]
-        author: 淮上 [Huai Shang]
-      - title: 鎮魂 [Guardian] Vol. 1
+        author: 空菊 Empty Chrisantemum
+      - title: 破云 Breaking through the Clouds
+        author: 淮上 Huai Shang
+      - title: 置换凶途 Replacing the evil way
+        author: 猫茶海狸 Cat Tea Beaver
+      - title: 吞海 Swallowing the Seas
+        author: 淮上 Huai Shang
+      - title: 鎮魂 Guardian Vol. 1
         author: priest
       - title: Omniscent Reader's Viewpoint
-        author: 싱숑 [Singshong]
+        author: 싱숑 Singshong
         star: yes
-      - title: 膜 [Membrane]
-        author: Chi Ta-Wei 
+      - title: 膜 Membrana
+        author: 紀大偉 Chi Ta-Wei 
       - title: Rileggersi autistica a 51 anni
         author: Simona Cicero
       - title: Sea of Tranquillity 
         author: Emily St. John Mandel
       - title: Free range VHDL 
         author: Bryan Mealy 
-      - title: Witch Hat Atelier
-        author: Kamome Shirahama
+      - title: とんがり帽子のアトリエ Atelier of Witch Hat 
+        author: 白浜 鴎 Kamome Shirahama
       - title: Titan
-        author: Mado Nozaki  
+        author: 野﨑 まど Mado Nozaki  
 
   - year: "2022"
     books:
       - title: 地球上線 The Earth Is Online
         author: Mo Chen Huan 莫晨歡
       - title: 禁区 Restricted Area
-        author: 空菊 [Empty Chrisantemum]
+        author: 空菊 Empty Chrisantemum
       - title: 一级律师 First-Class Lawyer
         author: 木苏里 Mu Su Li
-      - title: Seizing Dreams [夺梦]
+      - title: 夺梦 Seizing Dreams 
         author: 非天夜翔 Fei Tian Ye Xiang
       - title: No Money to divorce
         author: Shou Chu
