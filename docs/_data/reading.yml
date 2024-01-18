@@ -1,11 +1,13 @@
 lastupdate: December 28, 2023
 list:
-  # - year: "2024"
-  #   books:
-  #     - title: 
-  #       author:
+  - year: "2024"
+    books:
+      - title: 美学公式 Aesthetic Formula
+        author: 空菊 Empty Chrisantemum
   - year: "2023"
     books:
+      - title: "Kugan: city of everyone vol. 2"
+        author: 강소영 Kang So Young
       - title: "Kugan: city of everyone vol. 1"
         author: 강소영 Kang So Young
       - title: 坏道 Huai Dao
